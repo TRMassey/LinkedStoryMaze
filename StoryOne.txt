@@ -1,0 +1,36 @@
+*****************    Choose Your Own Adventure Text Game     ****************
+
+This is a short choose your own adventure maze. You will:
+1. Create a character
+2. Enter the maze
+3. Find and take any tools you believe may come in handy for task completion
+4. Find the end of the maze
+5. Exit the maze, if all items have been found
+
+You will start with no items in your pack.
+You will start with 10 points of health. You will lose and die if your health
+drops to 0 or below.
+Every time you enter a room your timer will increase. If you wander through
+enough rooms lost, you'll run out of time, but you will get some warning
+messages before you lose. So watch your loops!
+
+Good luck.
+*****************************************************************************
+
+
+Well, you're going to die.
+
+Even though, logically, you realize that the end is always looming, you never thought it would happen quite so fast. Or, you know, at the
+hands of someone who looks like their eyes never quite reset after escaping a good lynching.
+
+Stand up guy, that one. No way he deserved it or anything, right?
+
+Anyway, point of the story, is you're going to die. All to impress a girl, and all because you couldn't keep your fat mouth shut. When
+you were bragging at the local pub, you never once thought the lovely scented, scar covered gentleman to your left was an actual, honest
+to God theif. News flash, he was, and here you are.
+
+"Next!" the twitchy, bug-eyed gentleman calls.
+
+Unfortunately, that means you, so you hobble up to the overturned beer barrel he's using for a desk.
+
+"Name?" he asks.
